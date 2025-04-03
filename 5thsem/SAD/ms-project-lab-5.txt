@@ -1,0 +1,5 @@
+lab 5: viewing details and generate report in ms project
+
+1. to view the details goto view menu and click details option for show details work
+2. to generat report goto report menu then select different report for printing.
+

@@ -1,0 +1,11 @@
+Lab-1 setup/installation ms project environment
+Lab-2 setting a basic things and add activity in ms project
+1. goto project tab and click project information. now set project start date click ok
+2. click file menu and goto option menu in option window click schedule and makes week starts on sunday click ok
+3 go to project tab again and click chage working time and we make working date and time in calender and click ok.
+4. now save this project with project name which is appear in project title bar. 
+5. now setting currency for this go to file option click option goto display tab and enter npr in currency option.
+6. naming the task name with project name with the help of goto format at right side check project summary task
+7. now type diffrerent activity in activity area
+8. Highlighting Task module then select task tab and click auto schedule.
+9. finnaly enter days in duration for making bar chart.

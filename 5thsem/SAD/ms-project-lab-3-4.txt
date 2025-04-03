@@ -1,0 +1,15 @@
+lab-3 setting a calender and use other features in ms project
+
+1. After setting three things now move to setting other.
+2. seting a calender: go to project menu and click change working time then set a time for project
+3. for showing bar chart in split view select/highlight all task and select task menu and click split icon
+4. To make a summary of task highlight 2/3 activity in task name then goto to task menu and click summary
+5. check barchart, summary lines  also showing.
+
+lab-4 Adding resource and calculate total cost of project  in ms project
+
+1. for adding resources goto gantt chart menu then click resources sheet and add resource and cost.
+2. after adding resources and cost then goto gantt chart view and goto resources menu and and click assign resource this will display resource box and assign resorces name with activity
+3. click task name and select resources 1or2or3 name in assign resources window and click assign
+4. now goto view menu click table and select cost table to view cost in each phase
+5. finally to show total cost of this project goto project menu click projrct information and click statistics button.
